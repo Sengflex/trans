@@ -65,7 +65,7 @@ class AutocompleteCombobox(ttk.Combobox):
 
 def GUITranslate(translator):
     root = tk.Tk()
-    root.title("Tk Tranalator - By Paioniu")
+    root.title("Tk Translator - By Paioniu")
     root.iconbitmap('trans.ico')
     root.geometry("600x380")
    
